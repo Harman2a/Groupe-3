@@ -1,2 +1,2 @@
 # Groupe-3
-Me and my friends.
+This project belongs to me and my friends.
